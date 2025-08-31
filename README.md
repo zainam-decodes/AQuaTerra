@@ -1,6 +1,9 @@
 # AQuaTerra
 
-# 🌊🏞 AquaTerra Trash Detection with AI  
+# 🌊🏞 AquaTerra Trash Detection with AI 
+
+![AquaTerra](./banner.svg)
+
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange.svg)  
