@@ -34,8 +34,12 @@ This project provides:
 - 🌐 Open-source and extensible for researchers, NGOs, and environmentalists  
 
 ---
+## ✅ At this point:
 
-## 📂 Dataset  
-This project uses the **AquaTrash dataset**, which contains labeled images of waste materials in **land** and **water** environments.  
+-Dataset is loaded using CSV                                                                     
+-Images are resized, normalized                                            
+-Labels are mapped correctly                                  
+-Data is split into train/test                              
+-Augmentation is ready            
 
-**Structure:**  
+**🎉 That’s my 30% milestone (data preprocessing complete).**
